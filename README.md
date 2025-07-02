@@ -11,6 +11,19 @@
   <p><i>✨ The next-gen social platform where connections become opportunities ✨</i></p>
 </div>
 
+<div align="center">
+  <a href="https://apps.apple.com/app/your-food-app-id">
+    <img src="https://img.shields.io/badge/Download_on_the-App_Store-black?style=for-the-badge&logo=apple&logoColor=white" alt="Download on App Store" />
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=your.food.package.name">
+    <img src="https://img.shields.io/badge/Get_it_on-Google_Play-green?style=for-the-badge&logo=google-play&logoColor=white" alt="Get it on Google Play" />
+  </a>
+  <a href="https://github.com/nayanm07/your-food-app-repo/releases/latest/download/food-app.apk">
+    <img src="https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
+  </a>
+</div>
+
+
 ---
 
 ## 🚀 About myFlam
